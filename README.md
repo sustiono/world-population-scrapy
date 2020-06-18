@@ -12,7 +12,7 @@ cd world-population-scrapy
 pip3 install virtualenv
 virtualenv .env
 source .env/bin/activate
-cd national_debt
+cd worldometers
 pip install -r requirements.txt
 ```
 
